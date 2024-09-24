@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     
-    <title>The Tribute Website | A.P. J Abdul Kalam</title>
+    
     
   </head>
   <body>
@@ -10,7 +10,7 @@
       <div class="content">
         <section class="top_section">
           <div class="image_container">
-            <img src="./images/apj.jpg" alt="tribute" />
+<!--             <img src="./images/apj.jpg" alt="tribute" /> -->
           </div>
           <div>
             <h1>A . P . J Abdul Kalam</h1>
