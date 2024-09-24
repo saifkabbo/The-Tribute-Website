@@ -8,7 +8,7 @@
       <div class="content">
         <section class="top_section">
           <div class="image_container">
-            <img src="./images/apj.jpg" alt="tribute" />
+            
           </div>
           <div>
             <h1>A . P . J Abdul Kalam</h1>
